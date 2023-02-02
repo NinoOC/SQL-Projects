@@ -1,0 +1,15 @@
+fixture_id,fixture,home_id,away_id,date,venue,fixture_type
+1,Data Masters v BI Gods,1,2,10/1/2022, Wimbledon 1,Tournament
+2,Vis Wizards v Data Cleaners,3,4,10/1/2022,Wimbledon 2,Tournament
+3,Data Masters v Vis Wizards,1,3,10/8/2022,Wimbledon 2,Tournament
+4,BI Gods v Data Cleaners,2,4,10/8/2022,Wimbledon 3,Tournament
+5,Data Masters v Data Cleaners,1,4,10/22/2022,Wimbledon 3,Tournament
+6,BI Gods v Vis Wizards,2,3,10/22/2022,Wimbledon 2,Tournament
+7,BI Gods v Data Masters,2,1,10/29/2022,Wimbledon 1,Tournament
+8,Data Cleaners v Vis Wizards,4,3,10/29/2022,Wimbledon 3,Tournament
+9,Vis Wizards v Data Masters,3,1,11/5/2022,Wimbledon 3,Tournament
+10,Data Cleaners v BI Gods,4,2,11/5/2022,Wimbledon 1,Tournament
+11,Data Cleaners v Data Masters,4,1,11/12/2022,Wimbledon 2,Tournament
+12,Vis Wizards v BI Gods,3,2,11/12/2022,Wimbledon 3,Tournament
+13,Data Cleaners v Data Masters,4,1,11/12/2023,Wimbledon 1,Friendly
+14,Vis Wizards v BI Gods,3,2,11/12/2023,Wimbledon 3,Friendly
